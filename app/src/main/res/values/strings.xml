@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">易运动步数修改器</string>
+    <string name="hint">输入要修改的步数</string>
+    <string name="confirm">确认</string>
+    <string name="inpute_id">输入ID</string>
+    <string name="step">步数：</string>
+    <string name="id">易班ID：</string>
+    <string name="tips">使用流程：\n1.运行易班，记下要刷步数的易班ID，然后进入易运动\n2.运行步数修改器，输入ID和要增加的步数\n3.重新进入易运动查看步数\n\n\n
+    注意事项：\n1.总步数=以前的步数+你输入的步数\n2.总步数不要超过10万步，否则排行榜不显示\n
+        3.每刷一次步数应该打开易班重进一次易运动，数据上传成功之后再刷第二次
+    </string>
+
+</resources>
